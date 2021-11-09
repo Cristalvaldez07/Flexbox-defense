@@ -1,4 +1,5 @@
 # Flexbox Defense
 
-- Use the justify-content ▾ property to move these two towers into position. Click the  button in the stylesheet for a reminder on how the property works.
+This game consists of aligning the defense tanks and avoiding being attacked, the time is short, which if you are learning it will force you to turn on the flexbox properties in record time.
+
   
